@@ -34,7 +34,7 @@ namespace TransactionProject {
 
                 var Transactions = new List<Transaction>();
 
-                Transactions.Add(newTransaction);
+                Transactions.Add(newTransaction); 
             }
               
                 
